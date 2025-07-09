@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"task": "I cloned a git repo using ssh but a different user is signed when committing to the repo. How can I change this?"
+		"background": [
+			"git config global is set to this other user"
+		],
+		"instructions": [
+			"I want to locally define my account as the user for commits for this repo"
+		]
+	},
+	{
+		"id": 2,
+		"task": "Does setting the user and the email as you described configure them globally or locally?"
+		"background": [
+			"git config user.name "Your Name",
+			"git config user.email "your.email@example.com"
+		]
+	}
+]
