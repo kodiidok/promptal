@@ -1,0 +1,15 @@
+[
+	{
+		"task": "Create a lesson plan for a beginner practical course for parallel computing with CUDA and OpenMP"
+		"duration": {
+			"weeks": 5,
+			"hoursPerWeek": 2
+		},
+		"instructions": [
+			"must include configuration setup in a Linux and windows environment",
+			"must include demonstrative examples before starting out the course, in order to give an idea of the scope of the course",
+			"must gradually increase the complexity starting from basics and then move to advanced",
+			"must include excersises"
+		]
+	}
+]
