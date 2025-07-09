@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"task": "Create a lesson plan for a beginner practical course for parallel computing with CUDA and OpenMP"
 		"duration": {
 			"weeks": 5,
